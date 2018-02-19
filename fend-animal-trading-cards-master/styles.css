@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+body {
+	font-family: helvetica, san-serif;
+	width: 400px
+}
+
+img {
+	display: block;
+	width: 300px;
+	margin: 0 auto 20px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.border {
+	border: 1px solid black;
+}
+
+.shadow {
+	box-shadow: 0 2px 20px 0 rgba(0,0,0,0.5);
+}
+
+.padding {
+	padding: 10px;
+}
